@@ -1,0 +1,73 @@
+div.ebou-gdd-wrap {
+	margin: 10px 30px 0px 10px;
+	float: left;
+}
+
+div.ebou-gdd-container {
+	padding: 0px 10px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	background-color: #fff;
+}
+
+.ebou-gdd-long-select {
+	height: auto !important;
+	width: 250px;
+}
+
+div.ebou-gdd-wrap .mandatory::after {
+	content: " *";
+	color: red;
+}
+
+div.ebou-gdd-wrap a.disabled {
+	pointer-events: none;
+}
+
+img.ebou-gdd-check {
+	vertical-align: middle;
+}
+
+div#ebou-gdd-list {
+	min-height: 50px;
+	border: #CCC solid 1px;
+	border-radius: 2px;
+}
+
+div#ebou-gdd-list ul > li {
+	margin-left: 10px;
+}
+
+.ebou-gdd-error {
+	background: #FFCCCC none repeat scroll 0 0;
+	border: 1px solid #B80000;
+	border-radius: 2px;
+	color: #B80000;
+	padding: 5px 2px;
+	text-align: center;
+}
+
+li.ebou-gdd-item {
+	cursor: pointer;
+}
+
+li.ebou-gdd-item.active > span.text {
+	background-color: #555;
+	color: #fff;
+}
+
+li.ebou-gdd-item span.bullet {
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	vertical-align: middle;
+	cursor: pointer;
+}
+
+li.ebou-gdd-item span.expand {
+	background: rgba(0, 0, 0, 0 ) no-repeat scroll 0 0 url(../images/circle_plus.png);
+}
+
+li.ebou-gdd-item span.collapse {
+	background: rgba(0, 0, 0, 0 ) no-repeat scroll 0 0 url(../images/circle_minus.png);
+}

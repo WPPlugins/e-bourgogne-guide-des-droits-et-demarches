@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-12-04 16:57+0100\n"
+"PO-Revision-Date: 2015-12-04 16:58+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: e-bourgogne-gdd.php\n"
+"X-Poedit-SearchPath-1: settings.php\n"
+
+#: e-bourgogne-gdd.php:136
+msgid ""
+"Attention : il est déconseillé d'ajouter plusieurs guides sur une même page."
+msgstr ""
+
+#: e-bourgogne-gdd.php:138
+msgid "Ajouter un Guide des Droits et Démarches"
+msgstr ""
+
+#: e-bourgogne-gdd.php:146
+msgid "Ajouter ce Guide"
+msgstr ""
+
+#: e-bourgogne-gdd.php:167
+msgid "Ajouter un GDD"
+msgstr ""
+
+#: settings.php:48
+msgid "Etes-vous sûr de vouloir supprimer cette configuration ?"
+msgstr ""
+
+#: settings.php:70
+msgid "Réglages e-bourgogne - Guide des Droits et Démarches"
+msgstr ""
+
+#: settings.php:180
+#, php-format
+msgid ""
+"Important : afin d'assurer son fonctionnement, le plugin e-bourgogne Guide "
+"des Droits et Démarches charge des données extérieures en provenance d'%se-"
+"bourgogne%s"
+msgstr ""
+
+#: settings.php:212 settings.php:250
+msgid "Réglages e-bourgogne - Guide des Droits Démarches"
+msgstr ""
+
+#: settings.php:213
+msgid "Guide des Droits Démarches"
+msgstr ""
+
+#: settings.php:243
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: settings.php:262
+msgid "Clé d'API"
+msgstr ""
+
+#: settings.php:269
+msgid "Votre clé est valide"
+msgstr ""
+
+#: settings.php:269
+msgid "Clé valide"
+msgstr ""
+
+#: settings.php:278
+msgid "Enregistrer la clé"
+msgstr ""
+
+#: settings.php:301
+msgid "Guides configurés"
+msgstr ""
+
+#: settings.php:302
+msgid "Nouveau"
+msgstr ""
+
+#: settings.php:327
+msgid "Configuration"
+msgstr ""
+
+#: settings.php:330
+msgid "Veuillez indiquer un nom pour cette configuration"
+msgstr ""
+
+#: settings.php:345
+msgid "Nom"
+msgstr ""
+
+#: settings.php:355
+msgid "Feuille de style personnalisée (URL)"
+msgstr ""
+
+#: settings.php:365
+msgid "Type de Guide"
+msgstr ""
+
+#: settings.php:370
+msgid "Choisir un type de Guide..."
+msgstr ""
+
+#: settings.php:382
+msgid "Thématique ou fiche à afficher"
+msgstr ""
+
+#: settings.php:385
+msgid "Veuillez choisir un unique élément dans la liste ci-dessous"
+msgstr ""
+
+#: settings.php:389
+msgid "Récupération des données en cours..."
+msgstr ""
+
+#: settings.php:404
+msgid "Enregistrer la configuration"
+msgstr ""
+
+#: settings.php:407
+msgid "Supprimer la configuration"
+msgstr ""
+
+#: settings.php:416
+#, php-format
+msgid ""
+"Votre clé d'API n'est pas valide. Veuillez vérifier si elle correspond bien "
+"à celle fournie par e-bourgogne. Si le problème persiste, contactez "
+"l'%sassistance e-bourgogne%s."
+msgstr ""
+
+#: settings.php:422
+msgid ""
+"Le service Guide des Droits et Démarches d'e-bourgogne est actuellement "
+"indisponible, veuillez réessayer ultérieurement."
+msgstr ""
+
+#: settings.php:447
+msgid "Votre configuration de guide a été sauvegardé avec succès !"
+msgstr ""
+
+#: settings.php:454
+msgid "Une erreur est survenue lors de la suppression de la configuration"
+msgstr ""
+
+#: settings.php:457
+msgid "Votre configuration a été supprimé avec succès !"
+msgstr ""
